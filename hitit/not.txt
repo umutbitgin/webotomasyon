@@ -1,0 +1,14 @@
+Veri Tabanı;
+
+VERITABANI adlı klasördedir.
+
+Apache ve PhpMyAdmin;
+
+kullanıcı adı: root 
+Şifre:123456789
+
+Site Admin Paneli;
+
+Kullanıcı adı: admin 
+Şifre:123456
+
